@@ -9,7 +9,7 @@ NastyaGrifon/NastyaGrifon is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![GitHub Combined Card](https://githubcard.com/nastyagrifon.svg?d=XA4mEz1L)
+![GitHub Combined Card](https://githubcard.com/nastyagrifon.svg?d=WGBNzKJr)
 
 <!-- Vercel Stats
 
